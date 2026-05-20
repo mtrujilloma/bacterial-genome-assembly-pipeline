@@ -2,7 +2,7 @@
 
 **A step-by-step protocol for assembling, evaluating, annotating, and functionally characterizing bacterial genomes from Illumina paired-end sequencing data.**
 
-Developed at [LABEM — Laboratory of Biotechnology and Microbial Ecology](http://www.labem.microbiologia.ufrj.br/), Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro (UFRJ), in collaboration with the Universidad Nacional de Colombia.
+Developed at [LABEM — Laboratory of Biotechnology and Microbial Ecology](https://labem.microbiologia.ufrj.br/), Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro (UFRJ), in collaboration with the Universidad Nacional de Colombia.
 
 > **Authors:** Mariana Trujillo¹, Douglas A. Monteiro², Caio Rachid²  
 > ¹Universidad Nacional de Colombia, Medellín · ²LABEM/UFRJ, Rio de Janeiro  
