@@ -1,0 +1,45 @@
+name: genome-assembly-pipeline
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - java-jdk>=8          # required for Trimmomatic
+  - fastqc=0.12.1
+  - trimmomatic=0.39
+  - spades=4.2.0
+  - quast=5.3.0
+  - mamba                # fast package installer
+  - pip
+  - pip:
+    - checkm-genome
+
+  # CheckM dependencies
+  - hmmer
+  - prodigal
+  - pplacer
+  - numpy
+  - matplotlib
+  - pysam
+
+  # RagTag
+  - ragtag
+
+  # Prokka
+  - prokka=1.14.6
+
+  # ABRicate
+  - abricate
+
+  # PGPg Finder dependencies
+  - blast
+  - biopython
+  - pandas
+  - seaborn
+  - diamond
+  - megahit
+  - bowtie2
+  - samtools
+  - gawk
+  - pear
