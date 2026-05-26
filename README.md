@@ -4,8 +4,8 @@
 
 Developed at [LABEM — Laboratory of Biotechnology and Microbial Ecology](https://labem.microbiologia.ufrj.br/), Instituto de Microbiologia Paulo de Góes, Universidade Federal do Rio de Janeiro (UFRJ), in collaboration with the Universidad Nacional de Colombia.
 
-> **Authors:** Mariana Trujillo¹, Douglas A. Monteiro², Caio Rachid²  
-> ¹Universidad Nacional de Colombia, Medellín · ²LABEM/UFRJ, Rio de Janeiro  
+> **Author:** Mariana Trujillo  
+> Universidad Nacional de Colombia, Medellín · LABEM/Universidade Federal do Rio de Janeiro, Rio de Janeiro  
 
 ---
 
