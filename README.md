@@ -380,9 +380,9 @@ checkm lineage_wf -t 8 -x fasta /path/to/assembly/folder/ /path/to/output/folder
 ```
 
 **Quality thresholds (Parks et al., 2015):**
-- ✅ **High quality:** Completeness ≥ 95%, Contamination ≤ 5%
-- ⚠️ **Acceptable:** Completeness ≥ 70%, Contamination ≤ 10%
-- ❌ **Problematic:** Below these thresholds — investigate before publishing
+- **High quality:** Completeness ≥ 95%, Contamination ≤ 5%
+- **Acceptable:** Completeness ≥ 70%, Contamination ≤ 10%
+- **Problematic:** Below these thresholds — investigate before publishing
 
 Full documentation: https://github.com/Ecogenomics/CheckM/wiki/Overview
 
@@ -402,9 +402,9 @@ TYGS (Type Strain Genome Server) infers whole-genome phylogenies and species/sub
 
 **Results include:** 16S rRNA and WGS phylogenetic trees, species assignment, DDH values against database genomes, pairwise comparison tables.
 
-> ⚠️ **Download your results.** TYGS deletes results after a storage period. If the genome does not match any database entry (very low DDH values), it may represent a novel species.
+> **Download your results.** TYGS deletes results after a storage period. If the genome does not match any database entry (very low DDH values), it may represent a novel species.
 
-> ⚠️ **Note on processing time:** TYGS can take days to weeks depending on queue. For faster results, use MiGA.
+> **Note on processing time:** TYGS can take days to weeks depending on queue. For faster results, use MiGA.
 
 #### Option B — MiGA (online, faster)
 
